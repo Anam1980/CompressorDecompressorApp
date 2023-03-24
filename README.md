@@ -28,7 +28,7 @@
 5. You can repeat these steps for any other files you wish to compress or decompress using the app.
 
 ## CODE STRUCTURE
-* The main components of the code are:
+* The main components of the code are: 
 
    * GUI: The main class that provides the user interface and handles user input.
    * Comp: The helper class that implements the compression algorithm uses GZIP O/P Stream.
