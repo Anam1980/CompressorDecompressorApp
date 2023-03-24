@@ -11,9 +11,9 @@
      * ### **Decompressor**
         * Restore compressed file to their original size and format.
         * Restore compressed file without losing any important information.
-        * Provide users with easy access to the original file.
+        * Provide to users with easy access to the original file.
         
-* The app provides Graphical User Interface using Java Swing for visualizing the maze and the solution.
+* The app provides easy to use Graphical User Interface using Java Swing that allows user to select file for compression & decompression and display the progreass of operation.
 
 ## USAGE
 Simply, open the project in your preffered IDE.
