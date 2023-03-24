@@ -39,5 +39,7 @@ I used some external resources for guidance :
 * [javaTpoint Java Swing](https://www.javatpoint.com/java-swing).
 * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html).
 
-***Contributions are welcome! Feel free to submit pull requests or open issues!!***
+
+
+    ### ***Contributions are welcome! Feel free to submit pull requests or open issues!!***
 
