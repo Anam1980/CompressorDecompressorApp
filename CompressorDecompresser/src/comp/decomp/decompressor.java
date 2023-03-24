@@ -10,7 +10,7 @@ public class decompressor {
     public static void method(File file)throws IOException{
         //get parent path of input compressed file
         String fileDirectory= file.getParent();
-        //read
+        //read compressed file
         FileInputStream fis=new FileInputStream(file);
         //read and decompressed it
         GZIPInputStream gzip=new GZIPInputStream(fis);
