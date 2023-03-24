@@ -36,7 +36,7 @@
 
 ## CONTRIBUTION
 I used some external resources for guidance :
-* [javaTpoint Java Swing](https://www.javatpoint.com/java-swing).
+* [javaTpoint Java Swing Tutorial](https://www.javatpoint.com/java-swing).
 * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html).
 
 
