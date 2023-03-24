@@ -1,37 +1,41 @@
 # CompressorDecompressorApp
 
-* The Java application that allow user to compress file and decompress file .
+* The Java application that allow user to compress and decompress file using GZIP algorithm.        
+* The app provides easy-to-use Graphical User Interface using Java Swing that allows user to select file for compression & decompression and display the progress of operation.
+
+## FEATURES
+* Compresses files using the GZIP compression algorithm.
+* Decompresses GZIP-compressed files.
+
+## OUTPUT
 * It contain both Compression and Decompression function.
     * ### **Compressor**:
         * Reduce the size of file or data.
         * Maintain the quality as much as possible.
-        * Remove redundancies from file and make it smaller without loosing any information.
-        * Uses lossy compression algorithm.
+        * Remove redundancies from file and make it smaller without loosing any information.   
         
      * ### **Decompressor**
         * Restore compressed file to their original size and format.
-        * Restore compressed file without losing any important information.
+        * Restore compressed file without loosing any important information.
         * Provide to users with easy access to the original file.
-        
-* The app provides easy to use Graphical User Interface using Java Swing that allows user to select file for compression & decompression and display the progreass of operation.
 
-## USAGE
-Simply, open the project in your preffered IDE.
-Launch the app by running the AppFrame class.
 
-## ALGORITHM
-The app uses Depth-First Search algorithm to find the solution path in the maze.
-The algorithm works by exploring each possible path from the starting position until it reaches the destination.
-If it encounters a dead end, it backtracks to the previous position and tries a different path.
+## HOW TO USE APP
+1. Select the "Compress File" button to compress a file. You will be prompted to select a file to compress.
+2. Once you have selected a file, the app will compress it and save the compressed file in the same directory as the original file with the "Compressed.gz" extension.
+3. Select the "Decompress File" button to decompress a file. You will be prompted to select a file to decompress.
+4. Once you have selected a compressed file, the app will decompress it and save the decompressed file in the same directory as the original file without the ".gz" extension.
+5. You can repeat these steps for any other files you wish to compress or decompress using the app.
 
 ## CODE STRUCTURE
-The main components of the code are:
+* The main components of the code are:
 
-AppFrame: The main class that provides the user interface and handles user input.
-DFS: A helper class that implements the Depth-First Search algorithm.
-Maze: A data structure that represents the maze and provides methods for manipulating it.
+   * GUI: The main class that provides the user interface and handles user input.
+   * Comp: The helper class that implements the compression algorithm uses GZIP O/P Stream.
+   * Decomp: The helper class that implements the decompression algorithm uses GZIP I/P Stream.
 
 ## CONTRIBUTION
 I used some external resources for guidance :
-javaTpoint Java Swing
-Oracle Java Swing
+[javaTpoint Java Swing](https://www.javatpoint.com/java-swing).
+[Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html).
+
