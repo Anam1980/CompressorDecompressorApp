@@ -2,13 +2,13 @@
 
 * The Java application that allow user to compress file and decompress file .
 * It contain both Compression and Decompression function.
-    *###**Compressor**:
+    * ### **Compressor**:
         * Reduce the size of file or data.
         * Maintain the quality as much as possible.
         * Remove redundancies from file and make it smaller without loosing any information.
         * Uses lossy compression algorithm.
         
-     *###**Decompressor**
+     * ### **Decompressor**
         * Restore compressed file to their original size and format.
         * Restore compressed file without losing any important information.
         * Provide users with easy access to the original file.
