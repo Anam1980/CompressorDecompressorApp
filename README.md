@@ -8,7 +8,7 @@
 * Decompresses GZIP-compressed files.
 
 ## OUTPUT
-* It contain both Compression and Decompression function.
+* It contain both Compression and Decompression options.
     * ### **Compressor**:
         * Reduce the size of file or data.
         * Maintain the quality as much as possible.
@@ -36,6 +36,8 @@
 
 ## CONTRIBUTION
 I used some external resources for guidance :
-[javaTpoint Java Swing](https://www.javatpoint.com/java-swing).
-[Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html).
+* [javaTpoint Java Swing](https://www.javatpoint.com/java-swing).
+* [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html).
+
+**Contributions are welcome! Feel free to submit pull requests or open issues.**
 
