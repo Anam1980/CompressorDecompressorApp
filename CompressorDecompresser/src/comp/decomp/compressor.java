@@ -17,7 +17,7 @@ public class compressor {
         FileInputStream fis=new FileInputStream(file);
         //create new file to write with .gz extension
         FileOutputStream fos=new FileOutputStream(fileDirectory+"/CompressedFile.gz");
-        //to compressed the input file by read and write into new one
+        //to compressed the input file , write into new one
         GZIPOutputStream gzip=new GZIPOutputStream(fos);
         
         //chunks of byte to read the whole file
