@@ -37,5 +37,5 @@ public class compressor {
     public static void main(String[] args) throws IOException{
         File path = new File("C:\\Users\\LENOVO\\OneDrive\\Documents");
         method(path);
-    }
+    } 
 }
