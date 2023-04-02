@@ -27,12 +27,12 @@
 4. Once you have selected a compressed file, the app will decompress it and save the decompressed file in the same directory as the original file without the ".gz" extension.
 5. You can repeat these steps for any other files you wish to compress or decompress using the app.
 
-## CODE STRUCTURE
+##:point_right: CODE STRUCTURE
 * The main components of the code are: 
 
-   * GUI: The main class that provides the user interface and handles user input.
-   * Compressor: The helper class that implements the compression algorithm uses GZIP O/P Stream.
-   * Decompressor: The helper class that implements the decompression algorithm uses GZIP I/P Stream.
+   * **GUI**: The main class that provides the user interface and handles user input.
+   * **Compressor**: The helper class that implements the compression algorithm uses GZIP O/P Stream.
+   * **Decompressor**: The helper class that implements the decompression algorithm uses GZIP I/P Stream.
  
 ## CONTRIBUTION
 I used some external resources for guidance :
@@ -41,5 +41,5 @@ I used some external resources for guidance :
 
  
 
-    ### ***Contributions are welcome! Feel free to submit pull requests or open issues!!***
+    ###:v: ***Contributions are welcome! Feel free to submit pull requests or open issues!!:smiley:***
 
