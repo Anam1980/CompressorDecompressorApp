@@ -33,7 +33,7 @@
    * GUI: The main class that provides the user interface and handles user input.
    * Compressor: The helper class that implements the compression algorithm uses GZIP O/P Stream.
    * Decompressor: The helper class that implements the decompression algorithm uses GZIP I/P Stream.
-
+ 
 ## CONTRIBUTION
 I used some external resources for guidance :
 * [javaTpoint Java Swing Tutorial](https://www.javatpoint.com/java-swing).
