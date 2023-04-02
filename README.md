@@ -39,7 +39,9 @@ I used some external resources for guidance :
 * [javaTpoint Java Swing Tutorial](https://www.javatpoint.com/java-swing).
 * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html).
 
+ ## :point_right: SCREENSHOT
  
+ ![cd ss](./compdecomp.png)
 
-    ###:v: ***Contributions are welcome! Feel free to submit pull requests or open issues!!:relaxed:***
+   ###:v: ***Contributions are welcome! Feel free to submit pull requests or open issues!!:relaxed:***
 
