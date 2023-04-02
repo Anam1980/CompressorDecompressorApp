@@ -27,14 +27,14 @@
 4. Once you have selected a compressed file, the app will decompress it and save the decompressed file in the same directory as the original file without the ".gz" extension.
 5. You can repeat these steps for any other files you wish to compress or decompress using the app.
 
-## point_right: CODE STRUCTURE
+## :point_right: CODE STRUCTURE
 * The main components of the code are: 
 
    * :small_orange_diamond:**GUI**: The main class that provides the user interface and handles user input.
    * :small_orange_diamond:**Compressor**: The helper class that implements the compression algorithm uses GZIP O/P Stream.
    * :small_orange_diamond:**Decompressor**: The helper class that implements the decompression algorithm uses GZIP I/P Stream.
  
-## point_right: CONTRIBUTION
+## :point_right: CONTRIBUTION
 I used some external resources for guidance :
 * [javaTpoint Java Swing Tutorial](https://www.javatpoint.com/java-swing).
 * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html).
