@@ -1,4 +1,4 @@
-# :triangular_flag_on_post:CompressorDecompressorApp
+# :triangular_flag_on_post:CompressorDecompressorApp:floppy_disk:
 
 * The Java application that allow user to compress and decompress file using GZIP algorithm.        
 * The app provides easy-to-use Graphical User Interface using Java Swing that allows user to select file for compression & decompression and display the progress of operation.
@@ -41,5 +41,5 @@ I used some external resources for guidance :
 
  
 
-    ###:v: ***Contributions are welcome! Feel free to submit pull requests or open issues!!:smiley:***
+    ###:v: ***Contributions are welcome! Feel free to submit pull requests or open issues!!:relaxed:***
 
