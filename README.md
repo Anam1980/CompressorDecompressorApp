@@ -34,7 +34,7 @@
    * :small_orange_diamond:**Compressor**: The helper class that implements the compression algorithm uses GZIP O/P Stream.
    * :small_orange_diamond:**Decompressor**: The helper class that implements the decompression algorithm uses GZIP I/P Stream.
  
-## :point_right: CONTRIBUTION
+## :point_right: RESOURCES
 I used some external resources for guidance :
 * [javaTpoint Java Swing Tutorial](https://www.javatpoint.com/java-swing).
 * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html).
