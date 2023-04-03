@@ -43,5 +43,5 @@ I used some external resources for guidance :
  
  ![cd ss](./compdecomp.png)
 
-   ###:v: ***Contributions are welcome! Feel free to submit pull requests or open issues!!:relaxed:***
+           ## :v: ***Contributions are welcome! Feel free to submit pull requests or open issues!!:relaxed:***
 
